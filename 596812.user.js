@@ -9,8 +9,8 @@
 // @require       https://github.com/uplusion23/eruda-dom/raw/a5c4f12ef608f749effec2436e72ed5cc219df98/eruda-dom.min.js
 // @run-at        document-start
 // @include       *://*/*
-// @downloadURL   https://raw.githubusercontent.com/angelblackcoat/604594/main/596812.user.js
-// @updateURL     https://raw.githubusercontent.com/angelblackcoat/604594/main/596812.user.js
+// @downloadURL   https://github.com/angelblackcoat/604594/raw/main/596812.user.js
+// @updateURL     https://github.com/angelblackcoat/604594/raw/main/596812.user.js
 // @homepage      https://github.com/angelblackcoat/604594
 // @author        Efreak
 // @grant         none
