@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 eruda.init({
-    tool:'console,elements,network,resources,sources,info,snippets'.split(',')
+    tool:'console,elements,network,resources,sources,info,snippets'.split(','),
     useShadowDom: true,
     autoScale: true,
     defaults: {
@@ -27,6 +27,6 @@ eruda.init({
         theme: 'Dracula'
     }
 });
-eruda.add(erudaCode); //buikt-in js executor, start by default
+eruda.add(erudaCode); //built-in js executor, start by default
 eruda.add(erudaOutlinePlugin); //better than built-in outline function
 eruda.add(erudaDom) //wider than the current one, easier to scroll through
