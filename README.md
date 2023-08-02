@@ -1,3 +1,3 @@
 # Angel
 
-[596812](https://raw.githubusercontent.com/angelblackcoat/604594/main/596812.user.js)
+[596812](https://github.com/angelblackcoat/604594/raw/main/596812.user.js)
